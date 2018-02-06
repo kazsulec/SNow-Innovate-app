@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_178183_innovate.innovate_user</name>
+        <suffix>innovate_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-06 17:51:59</sys_created_on>
+        <sys_id>ecd719724f0013006539c3818110c7ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_178183_innovate.innovate_user</sys_name>
+        <sys_package display_value="Innovate" source="x_178183_innovate">321615364f0013006539c3818110c713</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">321615364f0013006539c3818110c713</sys_scope>
+        <sys_update_name>sys_user_role_ecd719724f0013006539c3818110c7ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-06 17:51:59</sys_updated_on>
+    </sys_user_role>
+</record_update>
